@@ -26,9 +26,9 @@ Here is the fix.
 
 For a custom build of CoreOS go to their repo and download the following plugins.
 
-[change_host_name.rb](https://github.com/coreos/coreos-overlay/raw/master/coreos-base/oem-vagrant/files/box/change_host_name.rb)
-[configure_networks.rb](https://github.com/coreos/coreos-overlay/raw/master/coreos-base/oem-vagrant/files/box/configure_networks.rb)
-[base_mac.rb](https://github.com/coreos/coreos-overlay/raw/master/coreos-base/oem-vagrant/files/box/base_mac.rb)
+- [`change_host_name.rb`](https://github.com/coreos/coreos-overlay/raw/master/coreos-base/oem-vagrant/files/box/change_host_name.rb)
+- [`configure_networks.rb`](https://github.com/coreos/coreos-overlay/raw/master/coreos-base/oem-vagrant/files/box/configure_networks.rb)
+- [`base_mac.rb`](https://github.com/coreos/coreos-overlay/raw/master/coreos-base/oem-vagrant/files/box/base_mac.rb)
 
 Then at the top of your vagrant file place these require statements.
 
