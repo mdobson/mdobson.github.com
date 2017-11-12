@@ -1,5 +1,5 @@
 * {
-  font-family: Arial, "Courier New", monospace;
+  font-family: Helvetica, "Courier New", monospace;
 }
 
 .posts {
@@ -13,7 +13,7 @@
 
 .posts span {
   color: #aaa;
-  font-family: Arial, "Courier New", monospace;
+  font-family: Helvetica, "Courier New", monospace;
   font-size: 80%;
 }
 
